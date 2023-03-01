@@ -1,7 +1,6 @@
 # Words App
 
-This folder contains the source code for the Words app codelab.
-
+This folder contains the source code for the Words app.
 
 # Introduction
 Words app allows you to select a letter and use Intents to navigate to an Activity that
